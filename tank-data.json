@@ -1,0 +1,505 @@
+{
+    "results": [
+        {
+            "nametank": "4TP ",
+            "typetank": "Tankette",
+            "manufacturer": "Panstwowe",
+            "country": "Poland"
+        },
+        {
+            "nametank": "6-Ton ",
+            "typetank": "Light Tank",
+            "manufacturer": "Vickers-Armstrongs",
+            "country": "United Kingdom"
+        },
+        {
+            "nametank": "7TP ",
+            "typetank": "Light Tank",
+            "manufacturer": ""
+        },
+        {
+            "nametank": "                      ",
+            "typetank": "Poland"
+        },
+        {
+            "nametank": "AMC 35 S ",
+            "typetank": "Cruiser Tank ",
+            "manufacturer": "SOMUA  ",
+            "country": "France  "
+        },
+        {
+            "nametank": "AMC 35 ",
+            "typetank": "Cruiser Tank ",
+            "manufacturer": "Renault S.A.  ",
+            "country": "France  "
+        },
+        {
+            "nametank": "AMR 33 ",
+            "typetank": "Light Tank ",
+            "manufacturer": "Renault S.A.  ",
+            "country": "France  "
+        },
+        {
+            "nametank": "AMR 35 ",
+            "typetank": "Light Tank ",
+            "manufacturer": "Renault S.A.  ",
+            "country": "France  "
+        },
+        {
+            "nametank": "Bystrokhodny ",
+            "typetank": "Cruiser Tank ",
+            "manufacturer": "Kharkov Komintern Locomotive Factory",
+            "country": " Ukraine  "
+        },
+        {
+            "nametank": "Carden Loyd ",
+            "typetank": "Tankette ",
+            "manufacturer": "Vickers-Armstrongs",
+            "country": " Limited  "
+        },
+        {
+            "nametank": "Char B1 ",
+            "typetank": "Heavy Tank ",
+            "manufacturer": "  ",
+            "country": "France  "
+        },
+        {
+            "nametank": "Char D1 ",
+            "typetank": "Light Tank ",
+            "manufacturer": "  ",
+            "country": "France  "
+        },
+        {
+            "nametank": "Cruiser Comet I ",
+            "typetank": "Cruiser Tank ",
+            "manufacturer": "Leyland Motors Limited  ",
+            "country": "United Kingdom  "
+        },
+        {
+            "nametank": "Cruiser Mk I Sentinel ",
+            "typetank": "Cruiser Tank ",
+            "manufacturer": "New South Wales Railways  ",
+            "country": "Australia  "
+        },
+        {
+            "nametank": "Cruiser Mk I ",
+            "typetank": "Cruiser Tank ",
+            "manufacturer": "Vickers-Armstrongs",
+            "country": " Limited  "
+        },
+        {
+            "nametank": "Cruiser Mk II ",
+            "typetank": "Cruiser Tank ",
+            "manufacturer": "Vickers-Armstrongs",
+            "country": " Limited  "
+        },
+        {
+            "nametank": "Cruiser Mk III ",
+            "typetank": "Cruiser Tank ",
+            "manufacturer": "Nuffield Mechanisation and Aero  ",
+            "country": "United Kingdom  "
+        },
+        {
+            "nametank": "Cruiser Mk IV ",
+            "typetank": "Cruiser Tank ",
+            "manufacturer": "  ",
+            "country": "United Kingdom  "
+        },
+        {
+            "nametank": "Cruiser Mk V Covenanter ",
+            "typetank": "Cruiser Tank ",
+            "manufacturer": "  ",
+            "country": "United Kingdom  "
+        },
+        {
+            "nametank": "Cruiser Mk VI Crusader ",
+            "typetank": "Cruiser Tank ",
+            "manufacturer": "Nuffield Mechanisation and Aero  ",
+            "country": "United Kingdom  "
+        },
+        {
+            "nametank": "Cruiser Mk VII Cavalier ",
+            "typetank": "Cruiser Tank ",
+            "manufacturer": "Nuffield Mechanisation and Aero  ",
+            "country": "United Kingdom  "
+        },
+        {
+            "nametank": "Cruiser Mk VIII Centaur/Cromwell ",
+            "typetank": "Cruiser Tank ",
+            "manufacturer": "Nuffield Mechanisation and Aero  ",
+            "country": "United Kingdom  "
+        },
+        {
+            "nametank": "FT-17 ",
+            "typetank": "Light Tank ",
+            "manufacturer": "Renault S.A.  ",
+            "country": "France  "
+        },
+        {
+            "nametank": "H35 ",
+            "typetank": "Light Tank ",
+            "manufacturer": "Hotchkiss et Cie  ",
+            "country": "France  "
+        },
+        {
+            "nametank": "Infantry Mk II Matilda ",
+            "typetank": "Infantry Tank ",
+            "manufacturer": "Vulcan Foundry",
+            "country": " Newton-le-Willows"
+        },
+        {
+            "nametank": "Infantry Mk III Valentine ",
+            "typetank": "Infantry Tank ",
+            "manufacturer": "Vickers-Armstrongs",
+            "country": " Limited  "
+        },
+        {
+            "nametank": "Infantry Mk IV Churchill ",
+            "typetank": "Infantry Tank ",
+            "manufacturer": "Vauxhall Motors Ltd.",
+            "country": " Luton"
+        },
+        {
+            "nametank": "Iosif Stalin ",
+            "typetank": "Heavy Tank ",
+            "manufacturer": "Kirov Factory",
+            "country": " UZTM"
+        },
+        {
+            "nametank": "Kliment Voroshilov ",
+            "typetank": "Heavy Tank ",
+            "manufacturer": "Kirov Plant Kirov Factory",
+            "country": " Leningrad"
+        },
+        {
+            "nametank": "L3 ",
+            "typetank": "Tankette ",
+            "manufacturer": "  ",
+            "country": "Italy  "
+        },
+        {
+            "nametank": "L6/40 ",
+            "typetank": "Light Tank ",
+            "manufacturer": "Fiat Ansaldo",
+            "country": " Turin"
+        },
+        {
+            "nametank": "Light Amphibious Tank ",
+            "typetank": "Tankette ",
+            "manufacturer": "Vickers-Armstrongs",
+            "country": " Limited  "
+        },
+        {
+            "nametank": "Light Mk VII Tetrarch ",
+            "typetank": "Light Tank ",
+            "manufacturer": "Metro-Cammell Carriage & Wagon Co.",
+            "country": " England"
+        },
+        {
+            "nametank": "M11/39 ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "Ansaldo-Fossati  ",
+            "country": "Italy  "
+        },
+        {
+            "nametank": "M13/40 ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "Fiat-Ansaldo  ",
+            "country": "Italy  "
+        },
+        {
+            "nametank": "M14/41 ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "Fiat  ",
+            "country": "Italy  "
+        },
+        {
+            "nametank": "M2 ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "Rock Island Arsenal  ",
+            "country": "United States  "
+        },
+        {
+            "nametank": "M2 ",
+            "typetank": "Light Tank ",
+            "manufacturer": "Rock Island Arsenal  ",
+            "country": "United States  "
+        },
+        {
+            "nametank": "M22 Locust ",
+            "typetank": "Light Tank ",
+            "manufacturer": "Marmon-Herrington Incorporated  ",
+            "country": "United States  "
+        },
+        {
+            "nametank": "M24 Chaffee ",
+            "typetank": "Light Tank ",
+            "manufacturer": "  ",
+            "country": "United States  "
+        },
+        {
+            "nametank": "M26 Pershing/M46 ",
+            "typetank": "Heavy Tank ",
+            "manufacturer": "Detroit Tank Arsenal and Fisher Tank Arsenal  ",
+            "country": "United States  "
+        },
+        {
+            "nametank": "M3 Lee/Grant ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "  ",
+            "country": "United States  "
+        },
+        {
+            "nametank": "M3 Stuart ",
+            "typetank": "Light Tank ",
+            "manufacturer": "  ",
+            "country": "United States  "
+        },
+        {
+            "nametank": "M4 Sherman ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "  ",
+            "country": "United States  "
+        },
+        {
+            "nametank": "Medium Mark A Whippet ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "William Foster and Company  ",
+            "country": "United Kingdom  "
+        },
+        {
+            "nametank": "PZInz 130 ",
+            "typetank": "Tankette ",
+            "manufacturer": "Panstwowe Zaklady Inzynieryjne  ",
+            "country": "Poland  "
+        },
+        {
+            "nametank": "PzKpfw 38(t) ",
+            "typetank": "Light Tank ",
+            "manufacturer": "Ceskomoravská Kolben-Danek  ",
+            "country": "Czechoslovakia  "
+        },
+        {
+            "nametank": "PzKpfw I ",
+            "typetank": "Light Tank ",
+            "manufacturer": "  ",
+            "country": "Germany  "
+        },
+        {
+            "nametank": "PzKpfw II ",
+            "typetank": "Light Tank ",
+            "manufacturer": "  ",
+            "country": "Germany  "
+        },
+        {
+            "nametank": "PzKpfw III ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "  ",
+            "country": "Germany  "
+        },
+        {
+            "nametank": "PzKpfw IV ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "Krupp Grusonwerke AG",
+            "country": " Magdeburg"
+        },
+        {
+            "nametank": "PzKpfw NbFz V/VI ",
+            "typetank": "Heavy Tank ",
+            "manufacturer": "Rheinmetall AG  ",
+            "country": "Germany  "
+        },
+        {
+            "nametank": "PzKpfw Tiger Ausf. B 'Tiger II' ",
+            "typetank": "Heavy Tank ",
+            "manufacturer": "Henschel und Sohn GmbH",
+            "country": " Kassel"
+        },
+        {
+            "nametank": "PzKpfw V Panther ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "  ",
+            "country": "Germany  "
+        },
+        {
+            "nametank": "PzKpfw VI Ausf. E 'Tiger I' ",
+            "typetank": "Heavy Tank ",
+            "manufacturer": "Henschel und Sohn GmbH",
+            "country": " Kassel"
+        },
+        {
+            "nametank": "R35 ",
+            "typetank": "Light Tank ",
+            "manufacturer": "Renault  ",
+            "country": "France  "
+        },
+        {
+            "nametank": "Ram ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "Canadian Tank Arsenal",
+            "country": " Montreal Locomotive Works  "
+        },
+        {
+            "nametank": "Sergei Mironovich Kirov ",
+            "typetank": "Heavy Tank ",
+            "manufacturer": "Kirov Factory No. 100",
+            "country": " Leningrad"
+        },
+        {
+            "nametank": "T-18 ",
+            "typetank": "Light Tank ",
+            "manufacturer": "Leningrad Obukhov Factory",
+            "country": " Leningrad"
+        },
+        {
+            "nametank": "T-26 ",
+            "typetank": "Light Tank ",
+            "manufacturer": "Factory No. 174",
+            "country": " Leningrad"
+        },
+        {
+            "nametank": "T-27 ",
+            "typetank": "Tankette ",
+            "manufacturer": "  ",
+            "country": "Russia  "
+        },
+        {
+            "nametank": "T-28 ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "Kirov Plant",
+            "country": " Leningrad"
+        },
+        {
+            "nametank": "T-34 ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "Kharkiv Morozov Machine Building Design Bureau  ",
+            "country": "Russia  "
+        },
+        {
+            "nametank": "T-35 ",
+            "typetank": "Heavy Tank ",
+            "manufacturer": "Malyshev Factory",
+            "country": " Kharkov"
+        },
+        {
+            "nametank": "T-37A ",
+            "typetank": "Tankette ",
+            "manufacturer": "No. 37 Plant",
+            "country": " Moscow"
+        },
+        {
+            "nametank": "T-40 ",
+            "typetank": "Light Tank ",
+            "manufacturer": "Ordzhonikidze Ural Heavy Machine Building Plant",
+            "country": " Yekaterinburg"
+        },
+        {
+            "nametank": "T-43 ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "Uralvagonzavod",
+            "country": " Nizhny Tagil"
+        },
+        {
+            "nametank": "T-44 ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "Factory No. 75",
+            "country": " Kharkov"
+        },
+        {
+            "nametank": "T-50 ",
+            "typetank": "Infantry Tank ",
+            "manufacturer": "Factory No. 174",
+            "country": " Omsk"
+        },
+        {
+            "nametank": "Type 1 Chi-He/Type 3 Ka-Chi ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "  ",
+            "country": "Japan  "
+        },
+        {
+            "nametank": "Type 2 Ho-I ",
+            "typetank": "Infantry Tank ",
+            "manufacturer": "  ",
+            "country": "Japan  "
+        },
+        {
+            "nametank": "Type 2 Ke-To ",
+            "typetank": "Light Tank ",
+            "manufacturer": "  ",
+            "country": "Japan  "
+        },
+        {
+            "nametank": "Type 3 Chi-Nu ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "  ",
+            "country": "Japan  "
+        },
+        {
+            "nametank": "Type 4 Chi-To ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "  ",
+            "country": "Japan  "
+        },
+        {
+            "nametank": "Type 4 Ke-Nu ",
+            "typetank": "Light Tank ",
+            "manufacturer": "  ",
+            "country": "Japan  "
+        },
+        {
+            "nametank": "Type 5 Chi-Ri ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "  ",
+            "country": "Japan  "
+        },
+        {
+            "nametank": "Type 5 Ke-Ho ",
+            "typetank": "Light Tank ",
+            "manufacturer": "  ",
+            "country": "Japan  "
+        },
+        {
+            "nametank": "Type 89 I-Go ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "Mitsubishi Heavy Industries  ",
+            "country": "Japan  "
+        },
+        {
+            "nametank": "Type 92 Jyu-Sokosha ",
+            "typetank": "Tankette ",
+            "manufacturer": "Ishikawajima Motorcar Manufacturing Company  ",
+            "country": "Japan  "
+        },
+        {
+            "nametank": "Type 94 Te-Ke ",
+            "typetank": "Tankette ",
+            "manufacturer": "Hino Motors  ",
+            "country": "Japan  "
+        },
+        {
+            "nametank": "Type 95 Ha-Go/Type 2 Ka-Mi ",
+            "typetank": "Light Tank ",
+            "manufacturer": "  ",
+            "country": "Japan  "
+        },
+        {
+            "nametank": "Type 97 Chi-Ha ",
+            "typetank": "Medium Tank ",
+            "manufacturer": "Mitsubishi Heavy Industries  ",
+            "country": "Japan  "
+        },
+        {
+            "nametank": "Type 97 Te-Ke ",
+            "typetank": "Tankette ",
+            "manufacturer": "  ",
+            "country": "Japan  "
+        },
+        {
+            "nametank": "Type 98 Ke-Ni ",
+            "typetank": "Light Tank ",
+            "manufacturer": "  ",
+            "country": "Japan"
+        }
+    ]
+}
