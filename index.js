@@ -6,12 +6,11 @@ let PORT = process.env.PORT || 5555;
 app.get("/", (req, res) => {
     res.set("Content-Type", "text/html");
     res.append("Access-Control-Allow-Origin", "*");
-
     res.send("OK");
 });
 app.get("/finally", (req, res) => {
-    res.header("Access-Control-Allow-Origin", "*");
-
+    res.set("Content-Type", "text/html");
+    res.append("Access-Control-Allow-Origin", "*");
     res.send(importData);
 });
 app.listen(PORT, () => {
