@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors');
 const app = express();
 const importData = require('./tank-data.json');
 let PORT = process.env.PORT || 5555;
