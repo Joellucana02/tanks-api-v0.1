@@ -4,6 +4,8 @@ const app = express();
 const importData = require('./tank-data.json');
 let PORT = process.env.PORT || 5500;
 
+app.use(cors());
+
 app.get("/", (req, res) => {
 
     res.header("Access-Control-Allow-Origin", "*");
